@@ -1,0 +1,13 @@
+{
+  "name": "change-tabs",
+  "main": "./lib/change-tabs",
+  "version": "0.0.0",
+  "description": "Change tabs with the Ctrl key",
+  "repository": "https://github.com/mcluck90/atom-change-tabs",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

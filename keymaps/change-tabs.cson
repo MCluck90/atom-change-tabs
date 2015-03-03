@@ -1,0 +1,20 @@
+# Keybindings require three things to be fully defined: A selector that is
+# matched against the focused element, the keystroke and the command to
+# execute.
+#
+# Below is a basic keybinding which registers on all platforms by applying to
+# the root workspace element.
+
+# For more detailed documentation see
+# https://atom.io/docs/latest/advanced/keymaps
+'atom-workspace':
+  'ctrl-1': 'change-tabs:1'
+  'ctrl-2': 'change-tabs:2'
+  'ctrl-3': 'change-tabs:3'
+  'ctrl-4': 'change-tabs:4'
+  'ctrl-5': 'change-tabs:5'
+  'ctrl-6': 'change-tabs:6'
+  'ctrl-7': 'change-tabs:7'
+  'ctrl-8': 'change-tabs:8'
+  'ctrl-9': 'change-tabs:9'
+  'ctrl-0': 'change-tabs:10'
