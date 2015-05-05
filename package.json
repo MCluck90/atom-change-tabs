@@ -1,7 +1,7 @@
 {
   "name": "change-tabs",
   "main": "./lib/change-tabs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Change tabs with the Ctrl key",
   "repository": "https://github.com/mcluck90/atom-change-tabs",
   "license": "MIT",
